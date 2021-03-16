@@ -1,2 +1,2 @@
 # ED2019
-esta chingadera que
+Lista doblemente ligada hecha por su sv
